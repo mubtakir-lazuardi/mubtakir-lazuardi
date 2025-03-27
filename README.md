@@ -1,8 +1,12 @@
 ### Hi there, I'm Farhan Yudhi Fatah! 👋
 
-I'm a **Senior IT Project Manager** and **Junior Software Engineer** with extensive experience managing large-scale, multinational projects. I specialize in **leading cross-functional teams** in remote environments, ensuring seamless collaboration between technical and non-technical stakeholders.
+I'm a **Senior IT Project Manager** and **Junior Software Engineer** with extensive experience managing large-scale, multinational projects. I specialize in:
 
-I have successfully managed **complex projects for Japanese clients**, where I navigated a unique blend of **Japanese and American corporate cultures**. Working with global teams, I have adapted to the meticulous precision of Japanese work ethics while integrating the dynamic and agile methodologies commonly found in American corporate environments. This experience has honed my ability to bridge cultural gaps, optimize development workflows, and ensure smooth communication across diverse teams. My expertise lies in **Agile project management, software development, and cloud infrastructure**, ensuring high-quality software solutions that meet business needs. 🚀
+- **Leading cross-functional teams** in remote environments, ensuring seamless collaboration between technical and non-technical stakeholders.
+- **Managing complex projects for Japanese clients**, navigating a unique blend of **Japanese and American corporate cultures**.
+- **Adapting to global work cultures**, integrating the meticulous precision of Japanese work ethics with the dynamic and agile methodologies of American corporate environments.
+- **Bridging cultural gaps** to optimize development workflows and enhance communication across diverse teams.
+- **Expertise in Agile project management, software development, and cloud infrastructure**, ensuring high-quality software solutions that meet business needs. 🚀
 
 ---
 
