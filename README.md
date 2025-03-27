@@ -1,6 +1,6 @@
 ### Hi there, I'm Farhan Yudhi Fatah! 👋
 
-I'm an **IT Project Manager** and **Software Engineer** passionate about technology, software development, and project management. I lead a **remote software company** and work with both technical and non-technical teams to build high-quality solutions. 🚀
+I'm an **Senior IT Project Manager** and **Junior Software Engineer** passionate about technology, software development, and project management. I lead a **remote software company** and work with both technical and non-technical teams to build high-quality solutions. 🚀
 
 ---
 
