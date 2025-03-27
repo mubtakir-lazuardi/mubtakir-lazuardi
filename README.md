@@ -5,44 +5,44 @@ I'm an **IT Project Manager** and **Software Engineer** passionate about technol
 ---
 
 ### 🔧 Technologies & Tools
-- **Programming Languages:** Python, JavaScript, TypeScript
-- **Frameworks & Libraries:** React.js, Node.js, Django, FastAPI
-- **DevOps & Cloud:** Docker, Kubernetes, AWS, GCP
+- **Programming Languages:** PHP, Golang, Springboot, JavaScript, TypeScript
+- **Frameworks & Libraries:** React.js, Node.js, Express.js, Laravel, Beego, Fiber
+- **DevOps & Cloud:** Docker, Huawei, AWS, GCP
 - **Project Management:** Jira, Agile, Scrum
 
 ---
 
 ### 📊 GitHub Stats
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanyudhi&show_icons=true&theme=radical)
+![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubtakir-lazuardi&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanyudhi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubtakir-lazuardi&layout=compact&theme=radical)
 
 ---
 
 ### 🏆 GitHub Profile Summary
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhanyudhi&theme=radical)
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhanyudhi&theme=radical)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhanyudhi&theme=radical)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubtakir-lazuardi&theme=radical)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mubtakir-lazuardi&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mubtakir-lazuardi&theme=radical)
 
 ---
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farhanyudhi&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mubtakir-lazuardi&theme=radical)
 
 ---
 
 ### 🏆 3D Contribution Graph
-![3D Contribution](https://github.com/farhanyudhi/farhanyudhi/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubtakir-lazuardi&theme=radical)
 
 ---
 
 ### 📈 GitHub Metrics
-![Metrics](https://github.com/farhanyudhi/farhanyudhi/blob/main/github-metrics.svg)
+![Metrics](https://github.com/mubtakir-lazuardi/mubtakir-lazuardi/blob/main/github-metrics.svg)
 
 ---
 
 ### 🐍 Contribution Graph
-![Snake animation](https://github.com/farhanyudhi/farhanyudhi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mubtakir-lazuardi/mubtakir-lazuardi/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -53,9 +53,9 @@ I'm an **IT Project Manager** and **Software Engineer** passionate about technol
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/farhanyudhi](#)
-- **Website/Portfolio:** [farhanyudhi.dev](#)
-- **Email:** farhan@example.com (replace with real email)
+- **LinkedIn:** [linkedin.com/in/mubtakir-lazuardi](#)
+- **Website/Portfolio:** [mubtakir-lazuardi.dev](#)
+- **Email:** mubtakir@example.com (replace with real email)
 
 ---
 
