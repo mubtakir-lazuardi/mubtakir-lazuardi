@@ -33,8 +33,10 @@ I'm an **IT Project Manager** and **Software Engineer** passionate about technol
 ---
 
 ### 🏷️ Badges
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+![Laravel](https://img.shields.io/badge/Laravel-8-red?style=for-the-badge&logo=laravel)
+![Go](https://img.shields.io/badge/Go-1.18-blue?style=for-the-badge&logo=go)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5-green?style=for-the-badge&logo=springboot)
 
 ---
 
