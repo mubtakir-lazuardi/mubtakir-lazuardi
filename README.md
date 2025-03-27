@@ -5,8 +5,8 @@ I'm an **IT Project Manager** and **Software Engineer** passionate about technol
 ---
 
 ### 🔧 Technologies & Tools
-- **Programming Languages:** PHP, Golang, Springboot, JavaScript, TypeScript
-- **Frameworks & Libraries:** React.js, Node.js, Express.js, Laravel, Beego, Fiber
+- **Programming Languages:** PHP, Golang, Springboot, JavaScript, TypeScript, Java, Dart
+- **Frameworks & Libraries:** React.js, Express.js, Laravel, Beego, Fiber, Flutter, Spring Boot
 - **DevOps & Cloud:** Docker, Huawei, AWS, GCP
 - **Project Management:** Jira, Agile, Scrum
 
@@ -37,6 +37,8 @@ I'm an **IT Project Manager** and **Software Engineer** passionate about technol
 ![Laravel](https://img.shields.io/badge/Laravel-8-red?style=for-the-badge&logo=laravel)
 ![Go](https://img.shields.io/badge/Go-1.18-blue?style=for-the-badge&logo=go)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5-green?style=for-the-badge&logo=springboot)
+![Flutter](https://img.shields.io/badge/Flutter-3.0-blue?style=for-the-badge&logo=flutter)
+![Docker](https://img.shields.io/badge/Docker-20.10-blue?style=for-the-badge&logo=docker)
 
 ---
 
