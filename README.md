@@ -5,10 +5,10 @@ I'm an **Senior IT Project Manager** and **Junior Software Engineer** passionate
 ---
 
 ### 🔧 Technologies & Tools
-- **Programming Languages:** PHP, Golang, Springboot, JavaScript, TypeScript, Java, Dart
-- **Frameworks & Libraries:** React.js, Express.js, Laravel, Beego, Fiber, Flutter, Spring Boot
-- **DevOps & Cloud:** Docker, Huawei, AWS, GCP
-- **Project Management:** Jira, Agile, Scrum
+- **Programming Languages:** PHP, Golang, Springboot, JavaScript, TypeScript, Java, Dart.
+- **Frameworks & Libraries:** React.js, Express.js, Laravel, Beego, Fiber, Flutter, Spring Boot.
+- **DevOps & Cloud:** Docker, Huawei, AWS, GCP.
+- **Project Management:** Jira, Agile, Scrum.
 
 ---
 
