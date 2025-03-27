@@ -13,8 +13,9 @@ I'm an **IT Project Manager** and **Software Engineer** passionate about technol
 ---
 
 ### 📊 GitHub Stats
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubtakir-lazuardi&show_icons=true&theme=radical)
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
 
+![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubtakir-lazuardi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubtakir-lazuardi&layout=compact&theme=radical)
 
 ---
@@ -27,22 +28,7 @@ I'm an **IT Project Manager** and **Software Engineer** passionate about technol
 ---
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mubtakir-lazuardi&theme=radical)
-
----
-
-### 🏆 3D Contribution Graph
-![3D Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubtakir-lazuardi&theme=radical)
-
----
-
-### 📈 GitHub Metrics
-![Metrics](https://github.com/mubtakir-lazuardi/mubtakir-lazuardi/blob/main/github-metrics.svg)
-
----
-
-### 🐍 Contribution Graph
-![Snake animation](https://github.com/mubtakir-lazuardi/mubtakir-lazuardi/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mubtakir-lazuardi&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
@@ -53,9 +39,10 @@ I'm an **IT Project Manager** and **Software Engineer** passionate about technol
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/mubtakir-lazuardi](#)
-- **Website/Portfolio:** [mubtakir-lazuardi.dev](#)
-- **Email:** mubtakir@example.com (replace with real email)
+- **LinkedIn:** [linkedin.com/in/farhanyf](#)
+- **Website/Portfolio:** [inovasky.com](#)
+- **Email:** farhanyudhifatah@gmail.com
+- **Whatsapp:** [+62 821-4567-6379](#)
 
 ---
 
