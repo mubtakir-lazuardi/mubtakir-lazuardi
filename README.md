@@ -19,7 +19,7 @@ I'm a **Senior IT Project Manager** and **Junior Software Engineer** with extens
 ---
 
 ### 📊 GitHub Stats
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
+![svg](https://github.com/mubtakir-lazuardi/mubtakir-lazuardi/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubtakir-lazuardi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubtakir-lazuardi&layout=compact&theme=radical)
