@@ -1,4 +1,11 @@
-### Hi there, I'm Farhan Yudhi Fatah! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1500&color=2ecc71&center=true&vCenter=true&width=1000&lines=%5BBOOTING%5D+👋+Welcome+to+Farhan's+Dev+Universe...;%5BLOADING%5D+keyboard+%E2%8C%A8%EF%B8%8F+and+caffeine+%E2%98%95...;%5BRUNNING%5D+init.sh+--intro;Hi,+I'm+Farhan+Yudhi+Fatah.;Project+Manager+%7C+Code+Enthusiast+%7C+Software+Development+Team+Captain+%F0%9F%8F%86;Leading+teams+to+deliver+clean,+scalable+software+%F0%9F%9A%80;code+is+my+second+language+%F0%9F%92%BB;I+translate+ideas+into+actionable+plans+%E2%9A%99%EF%B8%8F;こんにちは！ファルハンです。コードで未来を創ろう。;Always+debugging+life+with+breakpoints+and+logs+%F0%9F%90%9E;If+(you.readThis)+%7B+say(%22Hello+%F0%9F%91%8B%22);+%7D;System+ready.+Let's+build+something+awesome+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+
+
+<div style="position: relative; width: 100%; height: 100vh; overflow: hidden;">
+  <img src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif" alt="Profile GIF" style="position: absolute; top: 50%; left: 50%; width: 100vw; height: auto; transform: translate(-50%, -50%)"/>
+</div>
+
 
 I'm a **Senior IT Project Manager** and **Junior Software Engineer** with extensive experience managing large-scale, multinational projects. I specialize in:
 
