@@ -3,11 +3,11 @@
 
 
 <div style="position: relative; width: 100%; height: 100vh; overflow: hidden;">
-  <img src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif" alt="Profile GIF" style="position: absolute; top: 50%; left: 50%; width: 100vw; height: auto; transform: translate(-50%, -50%)"/>
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Profile GIF" style="position: absolute; top: 50%; left: 50%; width: 100vw; height: auto; transform: translate(-50%, -50%)"/>
 </div>
 
 
-I'm a **Senior IT Project Manager** and **Junior Software Engineer** with extensive experience managing large-scale, multinational projects. I specialize in:
+I'm a **IT Project Manager** and **Software Engineer** with extensive experience managing large-scale, multinational projects. I specialize in:
 
 - **Leading cross-functional teams** in remote environments, ensuring seamless collaboration between technical and non-technical stakeholders.
 - **Managing complex projects for Japanese clients**, navigating a unique blend of **Japanese and American corporate cultures**.
